@@ -715,6 +715,10 @@ h2 {
   color: #f3976c;
   background-color: lightgray;
 }
+
+.title-footer {
+  font-weight: bold;
+}
 .citation {
   font-style: italic;
   font-size: 24px;
