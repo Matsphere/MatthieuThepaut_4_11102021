@@ -27,6 +27,10 @@ a:hover {
   background: #ffffff url("img/pageload-spinner.gif") no-repeat center center;
 }
 
+.texte-contact {
+  color: black;
+}
+
 .bloc {
   clear: both;
   background: 50% 50% no-repeat;
